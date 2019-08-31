@@ -1,0 +1,125 @@
+
+TESTS FOR Computer.java:
+Dell, i5, 32GB Memory, 1.3TB Solid State Drive, Price: $999.00 
+Window, i7, 64GB Memory, 1.5TB Hard Drive, Price: $1499.00 
+HP, i7, 32GB Memory, 800GB Solid State Drive, Price: $799.00 
+Acer, i5, 16GB Memory, 400GB Hard Drive, Price: $499.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1958-02-23, Binghamton, NY, USA
+Date and place of birth: 1958-02-23, Syracuse, NY, USA
+Date and place of birth: 1992-03-12, Scranton, PA, USA
+Date and place of birth: 1949-03-12, Paris, France
+Date and place of birth: 1989-01-08, Tokyo, Japan
+false
+true
+false
+true
+false
+true
+false
+true
+false
+false
+false
+false
+true
+true
+true
+true
+false
+false
+true
+false
+false
+false
+true
+false
+false
+false
+true
+false
+true
+true
+true
+true
+false
+false
+false
+false
+true
+true
+false
+true
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+
+TESTS FOR StreetUSAddress.java:
+230 Coder street
+128 Java street
+Binghamton, NY 13905
+64 Java street
+Binghamton, NY 13905
+
+TESTS FOR Person.java:
+David Blance (1234-56-9873), 
+Date and place of birth: 1924-08-12, Binghamton, NY, USA, 
+128 Java street
+48 Linux street
+Binghamton, NY 13905
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: David Blance (1234-56-9873), 
+Date and place of birth: 1924-08-12, Binghamton, NY, USA, 
+128 Java street
+48 Linux street
+Binghamton, NY 13905
+Computers: [Dell, i5, 32GB Memory, 1.3TB Solid State Drive, Price: $999.00 , Window, i7, 64GB Memory, 1.5TB Hard Drive, Price: $1499.00 , HP, i7, 32GB Memory, 800GB Solid State Drive, Price: $799.00 , Acer, i5, 16GB Memory, 400GB Hard Drive, Price: $499.00 ]
+Computer List, Owner: David Blance (1234-56-9873), 
+Date and place of birth: 1924-08-12, Binghamton, NY, USA, 
+128 Java street
+48 Linux street
+Binghamton, NY 13905
+Computers: [Window, i7, 64GB Memory, 1.5TB Hard Drive, Price: $1499.00 , HP, i7, 32GB Memory, 800GB Solid State Drive, Price: $799.00 ]
+
+TESTS FOR SimpleDate.java:
+true
+false

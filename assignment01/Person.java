@@ -63,11 +63,23 @@ public class Person {
 
 	}
 // TODO provide the getter methods for placeDob and address 
+	public DateAndPlaceOfBirth GetPlaceDob(){
+		return placeDob;
+	}
+
+	private StreetUSAddress GetAddress(){
+		return address;
+	}
 // TODO Override the public String toString() method that is similar to the 
+	
 // toString of the StreetUSAddress class and will print a person as:
 // Jane Doe (111-22-3333), 
 // Date and place of birth: 1999-04-23, Springfield, CA, USA
 // 123 Main Street
 // Apt 1B
 // Binghamton, NY 13905
+
+	public String toString() {
+		return String.format("%s %s (%s), \n%s, \n%s",firstNames, lastNames, getSSN(), placeDob, address); 
+	}
 }
